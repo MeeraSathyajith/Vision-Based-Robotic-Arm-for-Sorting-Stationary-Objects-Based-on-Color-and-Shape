@@ -126,6 +126,10 @@ The Dobot Magician is modeled as a 4-DOF serial manipulator:
 
 ---
 
-## 👨‍💻 Author
-Your Name  
-B.Tech / Robotics / Mechatronics  
+## Author
+Diya Dineep
+Meera S
+Mithul Akshay
+Thanusha PS
+Vishnu Vardan
+B.Tech \ AI \ Amrita Vishwa Vidyapeetham \ Coimbatore
